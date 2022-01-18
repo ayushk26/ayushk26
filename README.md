@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush!
 
-I'm a Sophomore at IIT Bombay, full stack Web Developer, Machine Learning and Blockchain Enthusiast.
+I'm a Sophomore at IIT Bombay, Full Stack Web Developer, Machine Learning and Blockchain Enthusiast.
 
 [![LinkedIn: Ayush Kapoor](https://img.shields.io/badge/-AyushKapoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-kapoor-17a107214/)](https://www.linkedin.com/in/ayush-kapoor-17a107214/)
 [![GitHub ayushk26](https://img.shields.io/github/followers/ayushk26?label=follow&style=social)](https://github.com/ayushk26)
