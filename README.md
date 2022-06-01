@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ayush!
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I'm Ayush!
 
 I'm a Sophomore at IIT Bombay, Full Stack Web Developer, Machine Learning and Blockchain Enthusiast.
 
